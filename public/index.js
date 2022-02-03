@@ -5,7 +5,7 @@ var products = [
         expirationDate: {
           year: 2022,
           month: "February",
-          day: 25
+          day: 28
         },
         Brand: "Pepsi"
       }, 
